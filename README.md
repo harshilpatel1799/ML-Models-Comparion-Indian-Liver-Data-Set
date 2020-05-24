@@ -32,7 +32,7 @@ This data set contains 416 liver patient records and 167 non liver patient recor
 11. Selector field used to split the data into two sets (labeled by the experts)
 
 
-Relevant Papers:
+## Relevant Papers:
 
 1. Bendi Venkata Ramana, Prof. M. S. Prasad Babu and Prof. N. B. Venkateswarlu, â€œA Critical Comparative Study of Liver Patients from USA and INDIA: An Exploratory Analysisâ€, International Journal of Computer Science Issues, ISSN :1694-0784, May 2012.
 2. Bendi Venkata Ramana, Prof. M. S. Prasad Babu and Prof. N. B. Venkateswarlu, â€œA Critical Study of Selected Classification Algorithms for Liver Disease Diagnosisâ€, International Journal of Database Management Systems (IJDMS), Vol.3, No.2, ISSN : 0975-5705, PP 101-114, May 2011.
