@@ -1,6 +1,15 @@
 # Machine-Learing-Models-Comparion--Indian-L
 Comparison of ML Models with ILPD (Indian Liver Patient Dataset) Data Set  which contains 10 variables that are age, gender, total Bilirubin, direct Bilirubin, total proteins, albumin, A/G ratio, SGPT, SGOT and Alkphos.
 
+This notebook would implement the follwing machine learning methods:
+
+Logistic Regression
+Decision Trees
+Random Forest
+Neural Networks: we will use Multi-layer perceptron.
+
+Response Variable: field used to split the data into two sets (patient with liver disease (value = 2), or no disease (value = 1))
+
 
 
 
