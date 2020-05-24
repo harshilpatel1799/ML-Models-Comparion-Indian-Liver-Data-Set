@@ -3,15 +3,12 @@ Comparison of ML Models with ILPD (Indian Liver Patient Dataset) Data Set  which
 
 This notebook would implement the follwing machine learning methods:
 
-Logistic Regression
-Decision Trees
-Random Forest
-Neural Networks: we will use Multi-layer perceptron.
+1. Logistic Regression
+2. Decision Trees
+3. Random Forest
+4. Neural Networks: we will use Multi-layer perceptron.
 
 Response Variable: field used to split the data into two sets (patient with liver disease (value = 2), or no disease (value = 1))
-
-
-
 
 ## Data Set Information:
 
